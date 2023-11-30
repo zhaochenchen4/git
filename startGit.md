@@ -53,3 +53,5 @@ Failed to connect to 127.0.0.1 port 1080: Connection refused问题:
 	git config --global --unset http.proxy
 	git config --global --unset httpx.proxy
 	将C盘用户下的.gitconfig文件中的proxy行删掉
+git提交报 husky - pre-commit hook exited with code 1 (error)	
+	git commit --no-verify -m 'xxxxxx'
